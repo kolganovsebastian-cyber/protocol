@@ -1,0 +1,3 @@
+*.json
+recv_files/
+__pycache__/
